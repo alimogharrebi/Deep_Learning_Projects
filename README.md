@@ -1,2 +1,2 @@
 # Tutorials
-My sample and tutorial codes
+My deep learning projects. 
